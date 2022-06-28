@@ -1,4 +1,5 @@
-meu nome e **lucastpd**
+meu nome e **lucas de paula correia** :grin:
+
 estou aprendendo a programar em
 >javasScript
 
