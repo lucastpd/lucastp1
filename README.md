@@ -4,7 +4,7 @@ estou aprendendo a programar em
 >javasScript
 
 tenho
->16 anos 
+>16 anos :clown_face:
 
 gosto muito de
 < programar em JavasScript>
